@@ -1,0 +1,6 @@
+transformers
+
+#
+pip install --upgrade certifi
+pip install torch
+pip install transformers torch pandas langdetect
