@@ -1,6 +1,8 @@
-transformers
+# Default
 
-#
-pip install --upgrade certifi
-pip install torch
-pip install transformers torch pandas langdetect
+pandas
+numpy
+
+
+#  Traducao
+pip install deep_translator
