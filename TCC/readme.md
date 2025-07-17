@@ -23,4 +23,4 @@ Este projeto tem como objetivo criar um banco de dados/DW para uma empresa, impl
 [Acesse aqui o Kanban do projeto](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/projects/1)
 
 ## 📝 Documentação
-Acompanhe os detalhes no diretório `docs/`.
+Acompanhe os detalhes no diretório `docs/`
