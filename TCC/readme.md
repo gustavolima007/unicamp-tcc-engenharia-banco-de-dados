@@ -24,3 +24,5 @@ Este projeto tem como objetivo criar um banco de dados/DW para uma empresa, impl
 
 ## 📝 Documentação
 Acompanhe os detalhes no diretório `docs/`
+
+## novo topico
