@@ -1,0 +1,729 @@
+Ir para o conteúdo principal
+Faculdade de Tecnologia --
+Português - Brasil ‎(pt_br)‎ 
+Gustavo Lima 
+Banco de Dados (Turma 16)
+Painel
+Meus cursos
+Banco de Dados (Turma 16)
+CET 0614 - Parte 1
+Exercícios de Fixação - Código de Boas Práticas de Pesquisa
+Iniciado em	domingo, 3 Ago 2025, 17:44
+Estado	Finalizada
+Concluída em	domingo, 3 Ago 2025, 18:20
+Tempo empregado	36 minutos 27 segundos
+Notas	37,5/44,0
+Avaliar	8,5 de um máximo de 10,0(85,1%)
+Questão 1
+Parcialmente correto
+Atingiu 0,3 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP estabelece diretrizes éticas para:
+
+
+a.
+o exercício da função de avaliador científico pelos assessores da FAPESP
+
+
+b.
+instituições e organizações de qualquer natureza, que se apresentem perante a FAPESP como sedes de atividades científicas
+
+
+c.
+os periódicos científicos apoiados pela FAPESP
+
+
+d.
+atividades científicas dos pesquisadores beneficiários de auxílios e bolsas da FAPESP
+
+
+e.
+as atividades administrativas e de representação da FAPESP
+
+Feedback
+As respostas corretas são: atividades científicas dos pesquisadores beneficiários de auxílios e bolsas da FAPESP, o exercício da função de avaliador científico pelos assessores da FAPESP, instituições e organizações de qualquer natureza, que se apresentem perante a FAPESP como sedes de atividades científicas, os periódicos científicos apoiados pela FAPESP
+Questão 2
+Parcialmente correto
+Atingiu 0,3 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP define atividade científica como
+
+
+a.
+toda atividade que vise à administração e representação instuticional da instituição de pesquisa
+
+
+b.
+toda atividade que vise diretamente à concepção e realização de pesquisas científicas
+
+
+c.
+toda atividade que vise à interação científica entre pesquisadores 
+
+
+d.
+toda atividade que vise à comunicação de resultados de pesquisas científicas
+
+
+e.
+toda atividade que vise à orientação ou supervisão de processos de formação de pesquisadores
+
+Feedback
+As respostas corretas são: toda atividade que vise diretamente à concepção e realização de pesquisas científicas, toda atividade que vise à comunicação de resultados de pesquisas científicas, toda atividade que vise à interação científica entre pesquisadores, toda atividade que vise à orientação ou supervisão de processos de formação de pesquisadores
+Questão 3
+Parcialmente correto
+Atingiu 0,5 de 1,0
+Marcar questão
+Texto da questão
+São princípios do Código de Boas Práticas Científicas da FAPESP:
+
+
+a.
+as questões de integridade ética da pesquisa devem ser objeto de administração externa por parte da comunidade científica 
+
+
+b.
+as questões de integridade ética da pesquisa devem ser objeto de autocontrole por parte da comunidade científica
+
+
+c.
+as questões de integridade ética da pesquisa devem ser objeto de processos sindicantes por parte da comunidade científica 
+
+
+d.
+as questões de integridade ética da pesquisa devem ser objeto de supervisão externa por parte da comunidade científica
+
+
+e.
+as questões de integridade ética da pesquisa devem ser objeto de autorregulação por parte da comunidade científica
+
+Feedback
+As respostas corretas são: as questões de integridade ética da pesquisa devem ser objeto de autorregulação por parte da comunidade científica, as questões de integridade ética da pesquisa devem ser objeto de autocontrole por parte da comunidade científica
+Questão 4
+Parcialmente correto
+Atingiu 0,2 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP foi inspirado, entre outros, nos manuais e procedimentos de:
+
+
+a.
+European Science Foundation (EU)
+
+
+b.
+National Institutes of Health (USA)
+
+
+c.
+National Science Foundation (USA)
+
+
+d.
+Agências Austraslianas de Fomento (Austrália)
+
+
+e.
+Research Councils (UK)
+
+Feedback
+As respostas corretas são: National Science Foundation (USA), National Institutes of Health (USA), Research Councils (UK), Agências Austraslianas de Fomento (Austrália), European Science Foundation (EU)
+Questão 5
+Parcialmente correto
+Atingiu 0,3 de 1,0
+Marcar questão
+Texto da questão
+Segundo o Código de Boas Práticas Científicas da FAPESP, na concepção, proposição e realização de pesquisas, na comunicação de seus resultados e nas relações de cooperação e tutoria com outros pesquisadores, o cientista deve conduzir-se com:
+
+
+a.
+veracidade
+
+
+b.
+justiça e responsabilidade
+
+
+c.
+honestidade intelectual
+
+
+d.
+competição científica por publicações
+
+
+e.
+objetividade e imparcialidade
+
+Feedback
+As respostas corretas são: honestidade intelectual, objetividade e imparcialidade, veracidade, justiça e responsabilidade
+Questão 6
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Considere as seguintes afirmações, dentro do contexto do Código de Boas Práticas Científicas da FAPESP:
+
+
+i) Ao conceber um projeto de pesquisa e propô-lo à FAPESP para fomento, o pesquisador deve visar a oferecer uma contribuição que julgue ser original e relevante ao avanço da ciência.
+ii) Ao conceber um projeto de pesquisa e propô-lo à FAPESP para fomento, o pesquisador deve estar convencido de que dispõe da capacidade científica para bem realizá-lo, assim como dos recursos humanos e institucionais necessários para sua boa realização.
+iii) Ao conceber um projeto de pesquisa e propô-lo à FAPESP para fomento, o pesquisador deve expor com precisão e objetividade os fatores positivos e negativos que julgue capazes de influir na determinação do grau de originalidade, relevância e viabilidade do projeto.
+
+São verdadeiras:
+
+
+a.
+somente as i e ii
+
+
+b.
+somente a ii
+
+
+c.
+todas elas
+
+
+d.
+somente a iii
+
+
+e.
+somente a i
+
+Feedback
+A resposta correta é: todas elas
+Questão 7
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Para o Código de Boas Práticas Científicas da FAPESP, em que momento o pesquisador deve declarar a existência de qualquer conflito potencial de interesses que possa afetar a fidedignidade científica dos resultados do desenvolvimento do projeto?
+
+
+a.
+ao conceber um projeto de pesquisa e propô-lo à FAPESP para fomento
+
+
+b.
+ao publicar o resultado do projeto aprovado pela FAPESP
+
+
+c.
+ao ter o financiamento do projeto aprovado pela FAPESP
+
+
+d.
+ao ter aprovado o projeto proposto à FAPESP
+
+
+e.
+após conceber um projeto de pesquisa e propô-lo à FAPESP para fomento
+
+Feedback
+A resposta correta é: ao conceber um projeto de pesquisa e propô-lo à FAPESP para fomento
+Questão 8
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Qual das alternativas a seguir não representa, no Código de Boas Práticas Científicas da FAPESP, situação inequívoca de conflito potencial de interesses?
+
+
+a.
+participar, ter participado ou pretender participar o assessor do desenvolvimento de projeto de pesquisa ou proposta de atividades submetidos à sua avaliação
+
+
+b.
+publicar ou ter publicado trabalho de pesquisa científica individual em instituição independente da FAPESP
+
+
+c.
+ter o assessor interesse comercial ou financeiro no desenvolvimento ou não da proposta submetida à sua avaliação
+
+
+d.
+existir ou ter existido, entre o assessor e algum dos pesquisadores responsáveis pela proposta submetida à sua avaliação, qualquer espécie de relação que possa ser razoavelmente percebida como prejudicial com respeito à objetividade e imparcialidade dessa avaliação
+
+
+e.
+manter ou ter mantido o assessor colaboração científica regular, em atividades de pesquisa ou publicações, com algum dos pesquisadores responsáveis pela proposta submetida à sua avaliação
+
+
+f.
+ter o assessor relação familiar com algum dos pesquisadores responsáveis pela proposta submetida à sua avaliação
+
+
+g.
+manter ou ter mantido o assessor relação formal de tutoria (orientação ou supervisão) com algum dos pesquisadores responsáveis pela proposta submetida à sua valiação
+
+Feedback
+A resposta correta é: publicar ou ter publicado trabalho de pesquisa científica individual em instituição independente da FAPESP
+Questão 9
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP indica que as más condutas graves mais típicas e frequentes são as seguintes:
+
+
+a.
+adágio
+
+
+b.
+fabricação
+
+
+c.
+falsificação
+
+
+d.
+inversão
+
+
+e.
+plágio
+
+Feedback
+As respostas corretas são: fabricação, falsificação, plágio
+Questão 10
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP define pesquisa científica como toda investigação original que vise a contribuir para a constituição de uma ciência. 
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 11
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP define ciência como todo corpo racionalmente sistematizado e justificado de conhecimentos, obtido por meio do emprego metódico da observação, experimentação e raciocínio.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 12
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP aplica sua definição de ciência às chamadas Ciências Exatas, Naturais e Humanas, exceto às disciplinas tecnológicas e àquelas ordinariamente incluídas entre as chamadas Humanidades. 
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 13
+Incorreto
+Atingiu 0,0 de 1,0
+Marcar questão
+Texto da questão
+As diretrizes estabelecidas no Código de Boas Práticas Científicas da FAPESP concernem a toda a esfera da ética profissional do cientista.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Falso'.
+Questão 14
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP pretende auxiliar os pesquisadores a responderem, em situações particulares, às seguintes questões:
+
+
+i) Como devo conduzir minhas atividades de pesquisa para que delas resulte a melhor contribuição à ciência?
+ii) Como devo me conduzir em relação a outros pesquisadores para que a comunidade científica funcione e se reproduza da melhor maneira?
+iii) Como devo me conduzir para administrar e relatar as prestações de conta das agências federais de fomento à pesquisa?
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 15
+Incorreto
+Atingiu 0,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP trata de questões relativas à honestidade na gestão de recursos financeiros.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Falso'.
+Questão 16
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP não trata de questões que constituem a esfera de aplicação da Bioética relativas, por exemplo, ao respeito à integridade física, psicológica e moral dos sujeitos de experimentos, ao tratamento adequado dos animais necessários para a realização de pesquisas e à preservação do meio ambiente e da saúde pública.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 17
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP é exaustivo e passível de aplicação mecânica.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 18
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+A aplicação do Código de Boas Práticas Científicas da FAPESP pressupõe que pesquisadores e instituições se mantenham em estado de atenção contínua às questões de integridade ética da pesquisa.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 19
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Para o Código de Boas Práticas Científicas da FAPESP, todo cientista é eticamente responsável pelo avanço da ciência.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 20
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Para o Código de Boas Práticas Científicas da FAPESP, ao comunicar os resultados de sua pesquisa, por meio de um trabalho científico, o pesquisador deve expô-los com precisão, assim como todos os dados, informações e procedimentos que julgue terem sido relevantes para sua obtenção e justificação científicas. Nas situações em que essa exposição seja inviabilizada por razões éticas ou legais, esse fato deve ser expressamente mencionado no trabalho.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 21
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Para o Código de Boas Práticas Científicas da FAPESP, de modo geral, o trabalho deve conter a indicação expressa de todas as fontes de apoio material, direto ou indireto, à realização e divulgação da pesquisa, exceto quando se tratar de apoio privado ou estrangeiro, de forma a preservar sigilo de fonte.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 22
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Segundo o Código de Boas Práticas Científicas da FAPESP, em um trabalho científico, pressupõe-se que toda ideia ou formulação verbal, oral ou escrita, que seja nele utilizada e não seja evidentemente de domínio público na área de pesquisa em questão, seja uma contribuição original dos pesquisadores indicados como autores do trabalho. Se não for esse o caso, a ideia ou formulação deve ser expressamente creditada, no trabalho, a seus autores, independentemente de já ter sido por eles divulgada em trabalho científico.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 23
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Segundo o Código de Boas Práticas Científicas da FAPESP, todo pesquisador que submeta a um veículo de publicação trabalho científico idêntico, ou substancialmente semelhante, a trabalho também submetido a outro veículo, ou já publicado em outro veículo, deve declarar expressamente o fato ao editor do veículo no momento da submissão. 
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 24
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+De acordo com o Código de Boas Práticas Científicas da FAPESP, o pesquisador que publicar trabalho científico idêntico, ou substancialmente semelhante, a trabalho já publicado deve omitir o fato no texto do trabalho para evitar redundância.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 25
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Segundo o Código de Boas Práticas Científicas da FAPESP, em um trabalho científico, devem ser indicados como seus autores todos e apenas os pesquisadores que, tendo concordado expressamente com essa indicação, tenham dado contribuições intelectuais diretas e substanciais para a concepção ou realização da pesquisa cujos resultados são nele apresentados.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 26
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Conforme o Código de Boas Práticas Científicas da FAPESP, a cessão de recursos infraestruturais ou financeiros para a realização de uma pesquisa (laboratórios, equipamentos, insumos, materiais, recursos humanos, apoio institucional, etc.) é condição suficiente para uma indicação de autoria de trabalho resultante dessa pesquisa.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 27
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Segundo o Código de Boas Práticas Científicas da FAPESP, cada um dos autores de um trabalho científico é responsável pela qualidade científica desse trabalho como um todo, a menos que os limites de sua contribuição científica para a obtenção dos resultados expostos no trabalho sejam nele expressa e precisamente definidos.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 28
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Pelo o Código de Boas Práticas Científicas da FAPESP, os registros de uma pesquisa devem ser conservados de maneira segura durante um período considerável após a publicação dos resultados da pesquisa. A extensão desse período pode variar segundo a área e as características próprias da pesquisa, mas não deve ser superior a dois anos.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 29
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+De acordo com o Código de Boas Práticas Científicas da FAPESP, os registros de uma pesquisa em relação à qual tenham sido levantadas questões de correção científica ou ética devem ser conservados até que essas questões sejam completamente dirimidas.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 30
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Segundo o Código de Boas Práticas Científicas da FAPESP, os registros de uma pesquisa devem, após a publicação de seus resultados, ser acessíveis a outros pesquisadores, a fim de que possam verificar a correção da pesquisa, replicá-la ou dar-lhe continuidade. Tal acessibilidade apenas pode ser limitada por razões éticas ou legais.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 31
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Para o Código de Boas Práticas Científicas da FAPESP, há conflito potencial de interesses nas situações em que a coexistência entre o interesse que deve ter o pesquisador de fazer avançar a ciência e interesses de outra natureza, ainda que legítimos, possa ser razoavelmente percebida, por ele próprio ou por outrem, como conflituosa e prejudicial à objetividade e imparcialidade de suas decisões científicas, mesmo independentemente de seu conhecimento e vontade.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 32
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Na emissão de pareceres de mérito científico solicitados pela FAPESP, o interesse em realizar a melhor avaliação científica do documento em questão deve prevalecer sobre interesses de outra natureza, ainda que legítimos.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 33
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Na emissão de pareceres de mérito científico solicitados pela FAPESP, divergências de juízos científicos são razões suficientes para a emissão de parecer desfavorável ao mérito científico do documento avaliado.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 34
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP afirma que os assessores científicos da FAPESP devem tratar como confidenciais quaisquer informações a que tenham tido acesso exclusivamente no exercício de sua função de avaliadores, não fazendo uso delas para fins próprios, científicos ou não científicos, exceto mediante acordo expresso dos autores das propostas ou documentos avaliados. A obtenção desse acordo deve sempre acontecer com a concordância expressa e pela intermediação da FAPESP.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 35
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP preconiza que a FAPESP deve ser imediatamente informada da possível ocorrência de má conduta científica, ou qualquer procedimento eticamente condenável, de que um assessor científico tome conhecimento no curso de avaliação que por ela lhe tenha sido solicitada.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 36
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+Entende-se, no Código de Boas Práticas Científicas da FAPESP, por má conduta científica toda conduta de um pesquisador que, por intenção ou negligência, transgrida os valores e princípios que definem a integridade ética da pesquisa científica e das relações entre pesquisadores, tal como os formulados naquele código.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 37
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+A má conduta científica pode ser confundida com o erro científico cometido de boa fé e com divergências honestas em matéria científica, segundo a definição explícita do Código de Boas Práticas Científicas da FAPESP.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 38
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP define como fabricação a afirmação de que foram obtidos ou conduzidos dados, procedimentos ou resultados que realmente não o foram.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 39
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+A apresentação de dados, procedimentos ou resultados de pesquisa de maneira relevantemente modificada, imprecisa ou incompleta, a ponto de poder interferir na avaliação do peso científico que realmente conferem às conclusões que deles se extraem recebe, no Código de Boas Práticas Científicas da FAPESP, a designação de fabricação.
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 40
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O plágio é a utilização de ideias ou formulações verbais, orais ou escritas, de outrem sem dar-lhe por elas, expressa e claramente, o devido crédito, de modo a gerar razoavelmente a percepção de que sejam ideias ou formulações de autoria própria.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 41
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP declara que nenhum pesquisador deve facilitar, por ação ou omissão, a ocorrência ou o ocultamento da ocorrência de más condutas científicas.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 42
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+A FAPESP dispensa toda instituição de pesquisa com mais de 10  anos de funcionamento da obrigação de ter políticas e procedimentos claramente formulados para lidar com a questão da integridade ética da pesquisa. 
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Falso'.
+Questão 43
+Incorreto
+Atingiu 0,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP define a alegação de má conduta científica como toda informação, transmitida por qualquer meio, sobre possíveis evidências da ocorrência de má conduta científica. 
+
+Escolha uma opção:
+Verdadeiro
+Falso 
+Feedback
+A resposta correta é 'Verdadeiro'.
+Questão 44
+Correto
+Atingiu 1,0 de 1,0
+Marcar questão
+Texto da questão
+O Código de Boas Práticas Científicas da FAPESP estabelece que em toda entidade de pesquisa deve haver um órgão exclusivamente encarregado de receber alegações de más condutas científicas relacionadas a pesquisas nela realizadas, avaliar seu grau de fidedignidade e especificidade e, se for o caso, iniciar e coordenar a investigação dos fatos alegados.
+
+Escolha uma opção:
+Verdadeiro 
+Falso
+Feedback
+A resposta correta é 'Verdadeiro'.
+Terminar revisão
+Seguir para...
+Seguir para...
+Pular Navegação do questionário
+Navegação do questionário
+Gustavo Lima
+Mostrar uma página por vez
+Terminar revisão
+Você acessou como Gustavo Lima (Sair)
+Banco de Dados (Turma 16)
+Resumo de retenção de dados
+Baixar o aplicativo móvel.

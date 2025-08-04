@@ -1,0 +1,44 @@
+Questão 1 – a, b, c, d
+Questão 2 – b, c, d, e
+Questão 3 – b, e
+Questão 4 – a, b, c, d, e
+Questão 5 – a, b, c, e
+Questão 6 – c
+Questão 7 – a
+Questão 8 – b
+Questão 9 – b, c, e
+Questão 10 – Verdadeiro
+Questão 11 – Verdadeiro
+Questão 12 – Falso
+Questão 13 – Falso
+Questão 14 – Falso
+Questão 15 – Falso
+Questão 16 – Verdadeiro
+Questão 17 – Falso
+Questão 18 – Verdadeiro
+Questão 19 – Verdadeiro
+Questão 20 – Verdadeiro
+Questão 21 – Falso
+Questão 22 – Verdadeiro
+Questão 23 – Verdadeiro
+Questão 24 – Falso
+Questão 25 – Verdadeiro
+Questão 26 – Falso
+Questão 27 – Verdadeiro
+Questão 28 – Falso
+Questão 29 – Verdadeiro
+Questão 30 – Verdadeiro
+Questão 31 – Verdadeiro
+Questão 32 – Verdadeiro
+Questão 33 – Falso
+Questão 34 – Verdadeiro
+Questão 35 – Verdadeiro
+Questão 36 – Verdadeiro
+Questão 37 – Falso
+Questão 38 – Verdadeiro
+Questão 39 – Falso
+Questão 40 – Verdadeiro
+Questão 41 – Verdadeiro
+Questão 42 – Falso
+Questão 43 – Verdadeiro
+Questão 44 – Verdadeiro
