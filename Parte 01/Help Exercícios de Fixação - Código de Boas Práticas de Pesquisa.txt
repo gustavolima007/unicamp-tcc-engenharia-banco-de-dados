@@ -1,5 +1,5 @@
 Questão 1 – a, b, c, d
-Questão 2 – b, c, d, e
+Questão 2 – a, b, d, e
 Questão 3 – b, e
 Questão 4 – a, b, c, d, e
 Questão 5 – a, b, c, e
